@@ -1,0 +1,36 @@
+@import '../main.scss';
+
+.navigation {
+    display: flex;
+    justify-content: center;
+    min-height: 10vh;
+    font-size: 1rem;
+}
+
+.navigation--list {
+    display: flex;
+    margin: auto;
+    padding: 0;
+
+    .navigation--link {
+        list-style-type: none;
+        margin: 5px 10px;
+
+        &__navigation {
+            
+        }
+
+        &-a {
+            text-decoration: none;
+            color:coral;
+            &__navigation {
+                color: darkslateblue;
+            }
+            &__footer {
+                color: $color-base;
+            }
+        }
+
+        
+    }
+}

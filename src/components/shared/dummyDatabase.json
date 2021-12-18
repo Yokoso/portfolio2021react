@@ -1,0 +1,99 @@
+{
+    "navigation": {
+        "links": [
+            { 
+                "title": "Home",
+                "id": 110,
+                "url": "",
+                "icon": ""
+            },
+            {
+                "title": "About",
+                "id": 120,
+                "url": "",
+                "icon": ""
+            },
+            { 
+                "title": "Projects",
+                "id": 130,
+                "url": "",
+                "icon": ""
+            },
+            {
+                "title": "Resume",
+                "id": 140,
+                "url": "",
+                "icon": ""
+            },
+            {
+                "title": "Blog",
+                "id": 150,
+                "url": "",
+                "icon": ""
+            }
+        ]
+    },
+    "footer": {
+        "links": [
+            { 
+                "title": "Home",
+                "id": 210,
+                "url": "",
+                "icon": ""
+            },
+            {
+                "title": "About",
+                "id": 220,
+                "url": "",
+                "icon": ""
+            },
+            { 
+                "title": "Projects",
+                "id": 230,
+                "url": "",
+                "icon": ""
+            },
+            {
+                "title": "Resume",
+                "id": 240,
+                "url": "",
+                "icon": ""
+            },
+            {
+                "title": "Blog",
+                "id": 250,
+                "url": "",
+                "icon": ""
+            }
+        ]
+    },
+    "socials": {
+        "links": [
+            { 
+                "title": "Github",
+                "id": 310,
+                "url": "",
+                "icon": ""
+            },
+            {
+                "title": "Twitter",
+                "id": 320,
+                "url": "",
+                "icon": ""
+            },
+            { 
+                "title": "LinkedIn",
+                "id": 330,
+                "url": "",
+                "icon": ""
+            },
+            {
+                "title": "Instagram",
+                "id": 340,
+                "url": "",
+                "icon": ""
+            }
+        ]
+    }
+}
+  
